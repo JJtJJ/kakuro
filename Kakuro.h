@@ -2,5 +2,6 @@
 #define KAKURO_H
 
 #include "Kset.h"
+#include <iostream>
 
 #endif
