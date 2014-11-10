@@ -2,6 +2,7 @@
 #define SET_H
 
 #include <vector>
+#include <algorithm>
 
 class Kset {
 private:
